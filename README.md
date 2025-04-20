@@ -54,13 +54,13 @@ docker run -p 8080:8080 -p 50000:50000 --name jenkins \
 
 🧠 What I Learned
 
-# End-to-end Jenkins Job creation
+- End-to-end Jenkins Job creation
 
-# Jenkins + Docker socket integration
+- Jenkins + Docker socket integration
 
-# Automated CI/CD for containerized apps
+- Automated CI/CD for containerized apps
 
-# Troubleshooting Jenkins errors
+- Troubleshooting Jenkins errors
 
 ✨ Author
 Khaja Shamsuddin Ahmed
